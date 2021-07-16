@@ -1,0 +1,26 @@
+{
+    "tokens": [
+        {
+         "id": 0,
+             "description": "Hexbite NFT",
+             "external_url": "https://nftscoop.co",
+             "image": "https://nftscoop.co/hexbite.png",
+             "name": "Hexbite NFT"
+  },
+  {
+          "id": 1,
+             "description": "Rapidcoin NFT",
+             "external_url": "https://nftscoop.co",
+             "image": "https://nftscoop.co/rapidcoin.png",
+              "name": "Rapid Coin NFT"
+  },
+  {
+          "id": 2,
+             "description": "Coinchapter NFT",
+              "external_url": "https://nftscoop.co",
+              "image": "https://nftscoop.co/coinchapter.png",
+              "name": "Coinchapter NFT"
+  }
+
+    ]
+}
