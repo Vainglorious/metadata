@@ -1,7 +1,7 @@
 {
     "tokens": [
         {
-         "id": 0,
+         "id": 16,
          "name": "Wicked Cranium #16",
          "external_link": "https://wickedcranium.com/",
          "image": "https://bafkreidhicfffxqodgxberzwsbbap7yo7t52lmx3iaguir7vf6xoyqjcua.ipfs.dweb.link",
@@ -33,19 +33,36 @@
          ]
   },
   {
-          "id": 1,
-             "description": "Rapidcoin NFT",
-             "external_url": "https://nftscoop.co",
-             "image": "https://nftscoop.co/rapidcoin.png",
-              "name": "Rapid Coin NFT"
-  },
-  {
-          "id": 2,
-             "description": "Coinchapter NFT",
-              "external_url": "https://nftscoop.co",
-              "image": "https://nftscoop.co/coinchapter.png",
-              "name": "Coinchapter NFT"
-  }
-
+    "id": 17,
+    "name": "Wicked Cranium #17",
+    "external_link": "https://wickedcranium.com/",
+    "image": "https://bafkreidhicfffxqodgxberzwsbbap7yo7t52lmx3iaguir7vf6xoyqjcua.ipfs.dweb.link",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "WinterGaze"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Prim"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Electronic"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "SuitAndTie"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Winter"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "GoldenTeeth"
+      }
+    ]
+}
     ]
 }
